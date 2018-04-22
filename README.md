@@ -13,8 +13,11 @@ Many of the details (such as numbers values and descriptions) are only visible u
 
 ### Example Charts
 
+* Bike ID by Kilometer. 
 ![alt text](https://github.com/Allenfp/Exploring-Data-With-Tableau/blob/master/bike_distance.png?raw=true)
 
+* Utilization Heatmap
 ![alt text](https://github.com/Allenfp/Exploring-Data-With-Tableau/blob/master/date_time_heatmap.png?raw=true)
 
+* Station Activity by Starting Trip by Gender 
 ![alt text](https://github.com/Allenfp/Exploring-Data-With-Tableau/blob/master/tableau_gis.png)
