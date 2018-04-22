@@ -10,3 +10,11 @@ The original dataset contained ~53 million rows. Due to the limits of my compute
 
 ### Please note:
 Many of the details (such as numbers values and descriptions) are only visible upon the cursor hovering over the worksheet elements, and thus are not visible in the PDF format. Sorry!
+
+### Example Charts
+
+![alt text](https://github.com/Allenfp/Exploring-Data-With-Tableau/blob/master/bike_distance.png?raw=true)
+
+![alt text](https://github.com/Allenfp/Exploring-Data-With-Tableau/blob/master/date_time_heatmap.png?raw=true)
+
+![alt text](https://github.com/Allenfp/Exploring-Data-With-Tableau/blob/master/tableau_gis.png)
