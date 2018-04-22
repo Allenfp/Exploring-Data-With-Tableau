@@ -8,6 +8,8 @@ The downloads were performed using python and jupyter notebooks, CSV files were 
 
 The original dataset contained ~53 million rows. Due to the limits of my computer, a random sampling of 5% was used (~2.7 million rows). Due to GitHub's data storage policy, even the sample data could not be stored (It was over a gig, even compressed). To recapture the data, simply run the jupyter notebook script that is also included. 
 
+[See the PDF for all charts.](https://github.com/Allenfp/Exploring-Data-With-Tableau/blob/master/afp_data10_tableau_story.pdf)
+
 ### Please note:
 Many of the details (such as numbers values and descriptions) are only visible upon the cursor hovering over the worksheet elements, and thus are not visible in the PDF format. Sorry!
 
